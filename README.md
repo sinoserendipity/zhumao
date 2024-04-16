@@ -6,6 +6,8 @@
 wget -N --no-check-certificate https://raw.githubusercontent.com/sinoserendipity/zhumao/main/zhumao.sh && chmod 700 ./zhumao.sh && ./zhumao.sh
 ```
 
+![image text](https://github.com/sinoserendipity/zhumao/blob/main/imgs/image-32.png)
+
 ### 功能介绍
 输入 zhumao (猪猫)一键唤出菜单
 
